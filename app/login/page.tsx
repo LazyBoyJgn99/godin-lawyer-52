@@ -30,7 +30,7 @@ export default function LoginPage() {
       <Card className="w-full max-w-md">
         <CardHeader className="text-center">
           <div className="text-4xl mb-4">⚖️</div>
-          <CardTitle className="text-2xl">LegalAI诉讼通</CardTitle>
+          <CardTitle className="text-2xl">Godin律师助理</CardTitle>
           <CardDescription>智能法律助手演示版</CardDescription>
         </CardHeader>
         <CardContent className="space-y-4">
